@@ -1,1 +1,13 @@
+# Compiled binaries and build folders
 /build/
+/bin/
+*.class
+
+# Eclipse project settings and metadata
+.settings/
+.project
+.classpath
+
+# Temporary files
+*.tmp
+*.log
